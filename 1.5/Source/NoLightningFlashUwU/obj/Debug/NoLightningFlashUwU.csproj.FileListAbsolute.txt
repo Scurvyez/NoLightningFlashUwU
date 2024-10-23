@@ -1,0 +1,4 @@
+S:\Games\Steam\steamapps\common\RimWorld\Mods\NoLightningFlashUwU\1.5\Assemblies\NoLightningFlashUwU.dll
+S:\Games\Steam\steamapps\common\RimWorld\Mods\NoLightningFlashUwU\1.5\Source\NoLightningFlashUwU\obj\Debug\NoLightningFlashUwU.csproj.AssemblyReference.cache
+S:\Games\Steam\steamapps\common\RimWorld\Mods\NoLightningFlashUwU\1.5\Source\NoLightningFlashUwU\obj\Debug\NoLightningFlashUwU.csproj.CoreCompileInputs.cache
+S:\Games\Steam\steamapps\common\RimWorld\Mods\NoLightningFlashUwU\1.5\Source\NoLightningFlashUwU\obj\Debug\NoLightningFlashUwU.dll

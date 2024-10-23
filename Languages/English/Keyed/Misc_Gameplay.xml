@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <NLFUWU_ModName>No Lightning Flash UwU</NLFUWU_ModName>
+
+    <NLFUWU_LightningFlashDurationMaxLabel>Lightning Flash Max Duration: </NLFUWU_LightningFlashDurationMaxLabel>
+    <NLFUWU_LightningFlashDurationMaxToolTip>Adjust to set the maximum duration for the map-wide flash effect during lightning strikes. Setting this to 0 will ensure the flash does not happen at all.\n\n(Requires a reload of the save or new map gen.)</NLFUWU_LightningFlashDurationMaxToolTip>
+    <NLFUWU_LightningShadowFlashLabel>Lightning Shadow Flash Toggle: </NLFUWU_LightningShadowFlashLabel>
+    <NLFUWU_LightningShadowFlashToolTip>Toggle off to ensure the map-wide flash effect does not affect shadows.\n\n(Requires a reload of the save or new map gen.)</NLFUWU_LightningShadowFlashToolTip>
+
+</LanguageData>
